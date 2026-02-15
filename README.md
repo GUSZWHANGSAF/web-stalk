@@ -105,7 +105,7 @@ Social Media Stalker adalah aplikasi web berbasis JavaScript native yang memungk
       <td><strong>🎵 TikTok</strong></td>
       <td><img src="https://img.icons8.com/color/24/000000/tiktok.png" alt="TikTok"></td>
       <td>Profile, Followers, Following, Likes, Videos</td>
-      <td><code>yyanzxd</code></td>
+      <td><code>GuszzX</code></td>
     </tr>
     <tr>
       <td><strong>📸 Instagram</strong></td>
@@ -117,7 +117,7 @@ Social Media Stalker adalah aplikasi web berbasis JavaScript native yang memungk
       <td><strong>💻 GitHub</strong></td>
       <td><img src="https://img.icons8.com/color/24/000000/github.png" alt="GitHub"></td>
       <td>Repositories, Followers, Following, Gists</td>
-      <td><code>TheyanzXD</code></td>
+      <td><code>Gusz</code></td>
     </tr>
     <tr>
       <td><strong>📦 NPM</strong></td>
@@ -160,10 +160,10 @@ Social Media Stalker adalah aplikasi web berbasis JavaScript native yang memungk
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/TheyanzXD/WEB-STALK-AKUN.git
+git clone https://github.com/GUSZWHANGSAF/web-stalk.git
 
 # 2. Masuk ke folder
-cd WEB-STALK-AKUN
+cd web-stalk
 
 # 3. Buka di browser
 # Buka file index.html di browser favorit Anda
@@ -196,8 +196,8 @@ cd WEB-STALK-AKUN
 ```javascript
 // TikTok
 Platform: TikTok
-Input: yyanzxd
-Hasil: Profile Yanz dengan 59 followers
+Input: bgussszzzx
+Hasil: Profile Yanz dengan 1350 followers
 
 // Mahasiswa
 Platform: Mahasiswa  
@@ -504,7 +504,7 @@ git push origin fitur-baru
 ```
 MIT License
 
-Copyright (c) 2025 YanOZX
+Copyright (c) 2025 GuszX
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -531,7 +531,7 @@ SOFTWARE.
 
 <div align="center">
 
-👨‍💻 YanOZX
+👨‍💻 GuszX
 
   <table>
     <tr>
