@@ -536,17 +536,17 @@ SOFTWARE.
   <table>
     <tr>
       <td align="center">
-        <a href="https://t.me/YanOZX">
+        <a href="https://t.me/kitascam">
           <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"/><br>
           <strong>Telegram</strong><br>
-          @YanOZX
+          @kitascam
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/TheyanzXD">
+        <a href="https://github.com/GUSZWHANGSAF">
           <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/><br>
           <strong>GitHub</strong><br>
-          TheyanzXD
+          GUSZWHANGSAF
         </a>
       </td>
     </tr>
