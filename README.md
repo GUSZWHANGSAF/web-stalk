@@ -201,7 +201,7 @@ Hasil: Profile Yanz dengan 1350 followers
 
 // Mahasiswa
 Platform: Mahasiswa  
-Input: Muhammad nugi nugraha
+Input: Bagus Raisyah Putera
 Hasil: Data mahasiswa UPH
 ```
 
@@ -215,8 +215,8 @@ Hasil: Data mahasiswa UPH
 WEB-STALK-AKUN/
 │
 ├── 📄 index.html           # File HTML utama
-├── /apaininjir/ 🎨 style.css            # Stylesheet CSS
-├── /apaininjir/ ⚡ script.js            # JavaScript logic
+├── /apainijirr/ 🎨 style.css            # Stylesheet CSS
+├── /apainijirr/ ⚡ script.js            # JavaScript logic
 ├── 📖 README.md            # Dokumentasi ini
 │
 ```
@@ -362,15 +362,15 @@ WEB-STALK-AKUN/
   <div class="profile-section">
     <img src="avatar.jpg" class="profile-img">
     <div class="profile-info">
-      <h3>Yanz</h3>
-      <div class="username">@yyanzxd</div>
-      <div class="bio">telegram syaa @YanOZX</div>
+      <h3>Gusz</h3>
+      <div class="username">@bgussszzzx</div>
+      <div class="bio">telegram syaa @bgussszzzx</div>
     </div>
   </div>
   
   <div class="stats-grid">
     <div class="stat-box">
-      <div class="stat-value">59</div>
+      <div class="stat-value">1350</div>
       <div class="stat-label">Followers</div>
     </div>
     <!-- More stats... -->
